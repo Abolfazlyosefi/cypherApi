@@ -1,0 +1,15 @@
+# .vs folder (Visual Studio-specific files)
+.vs/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+bin/
+obj/
+
+# ASP.NET Core
+.vscode/
